@@ -6,6 +6,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { TableFilterRowDemo } from 'src/app/demo/table-filter-row-demo';
 
+
 // Import PrimeNG modules
 import { AccordionModule } from 'primeng/accordion';
 import { AutoCompleteModule } from 'primeng/autocomplete';
@@ -178,16 +179,16 @@ import { CustomerService } from 'src/service/customerservice';
     TerminalModule,
     TieredMenuModule,
     TimelineModule,
-    ToastModule,
-    ToggleButtonModule,
-    ToolbarModule,
-    TooltipModule,
-    TriStateCheckboxModule,
-    TreeModule,
-    TreeSelectModule,
-    TreeTableModule,
+   
+    
+   
+  
+   
+   
+   
+   
     AnimateModule,
-    CardModule,
+  
     RouterModule.forRoot([{ path: '', component: TableFilterRowDemo }])],
     declarations: [ TableFilterRowDemo ],
     bootstrap: [ TableFilterRowDemo ],
