@@ -86,7 +86,8 @@ import { CustomerService } from 'src/service/customerservice';
     BrowserAnimationsModule,
     TagModule,
     TableModule,
-   
+    MultiSelectModule,
+
     ConfirmDialogModule,
     ContextMenuModule,
     VirtualScrollerModule,
@@ -99,26 +100,16 @@ import { CustomerService } from 'src/service/customerservice';
     DynamicDialogModule,
     EditorModule,
     FieldsetModule,
-    FileUploadModule,
-    GalleriaModule,
-    InplaceModule,
+    
     InputMaskModule,
     InputSwitchModule,
     InputTextModule,
     InputTextareaModule,
     InputNumberModule,
-    ImageModule,
-    KnobModule,
-    ListboxModule,
-    MegaMenuModule,
-    MenuModule,
-    MenubarModule,
-    MessageModule,
-    MessagesModule,
-    MultiSelectModule,
-    OrderListModule,
-    OverlayPanelModule,
-    PaginatorModule,
+   
+   
+    
+   
     
     
    
